@@ -7,6 +7,7 @@
 
 import Foundation
 import Storyly
+import SafariServices
 
 class StorylyViewController: UIViewController {
     private var storylyView: StorylyView = {
@@ -47,7 +48,14 @@ extension StorylyViewController: StorylyDelegate {
     
     func storylyActionClicked(_ storylyView: StorylyView, rootViewController: UIViewController, story: Story) {
         print("storylyActionClicked:\(story)")
-        performSegue(withIdentifier: "showDetail", sender: self)
+        storylyView.pauseStory(animated: true)
+        
+        let svc = StorylySFSafariViewController(url: URL(string:"http://google.com")!)
+        svc.onDismiss = { [weak self] in
+            self?.storylyView.resumeStory(animated: true)
+        }
+        self.present(svc, animated: true, completion: nil)
+    
     }
     
     func storylyStoryPresented(_ storylyView: StorylyView) {
@@ -69,4 +77,21 @@ extension StorylyViewController: StorylyDelegate {
     func storylyEvent(_ storylyView: StorylyView, event: StorylyEvent, storyGroup: StoryGroup?, story: Story?, storyComponent: StoryComponent?) {
         print("storylyEvent:\(event.rawValue):\(event.stringValue):\(storyGroup?.uniqueId):\(story?.uniqueId):\(storyComponent?.type)")
     }
+}
+
+class StorylySFSafariViewController : SFSafariViewController {
+    
+    internal var onDismiss: (() -> Void)?
+    
+    override func viewDidLoad() {
+        self.delegate = self
+    }
+}
+
+extension StorylySFSafariViewController: SFSafariViewControllerDelegate {
+    
+    func safariViewControllerDidFinish(_ controller: SFSafariViewController) {
+        onDismiss?()
+    }
+
 }
