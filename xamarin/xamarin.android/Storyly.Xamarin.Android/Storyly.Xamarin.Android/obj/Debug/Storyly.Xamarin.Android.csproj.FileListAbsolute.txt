@@ -1,0 +1,6 @@
+/Users/kadirsancak/Projects/Storyly.Xamarin.Android/Storyly.Xamarin.Android/obj/Debug/__AndroidLibraryProjects__.zip
+/Users/kadirsancak/Projects/Storyly.Xamarin.Android/Storyly.Xamarin.Android/obj/Debug/MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+/Users/kadirsancak/Projects/Storyly.Xamarin.Android/Storyly.Xamarin.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/kadirsancak/Projects/Storyly.Xamarin.Android/Storyly.Xamarin.Android/obj/Debug/class-parse.rsp
+/Users/kadirsancak/Projects/Storyly.Xamarin.Android/Storyly.Xamarin.Android/obj/Debug/java-resolution-report.log
+/Users/kadirsancak/Projects/Storyly.Xamarin.Android/Storyly.Xamarin.Android/obj/Debug/Storyly.Xamarin.Android.csproj.CoreCompileInputs.cache
