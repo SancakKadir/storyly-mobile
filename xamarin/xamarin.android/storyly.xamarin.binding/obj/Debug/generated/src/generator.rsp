@@ -1,6 +1,8 @@
---only-xml-adjuster
---xml-adjuster-output="obj/Debug/api.xml"
+--codegen-target=XAJavaInterop1
 --csdir="obj/Debug/generated/src"
+--enumdir="obj/Debug/generated/enums"
+--enummetadata="obj/Debug/generated/metadata"
+--assembly=storyly.xamarin.binding
 --ref="/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/mscorlib.dll"
 --ref="/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Java.Interop.dll"
 --ref="/Users/kadirsancak/.nuget/packages/xamarin.google.code.findbugs.jsr305/3.0.2.2/lib/monoandroid90/Jsr305Binding.dll"
@@ -223,6 +225,11 @@
 --ref="/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Xml.XPath.XDocument.dll"
 --ref="/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Xml.XPath.XmlDocument.dll"
 --ref="/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Xml.Xsl.Primitives.dll"
+"--fixup=Transforms/Metadata.xml"
+"--enumfields=Transforms/EnumFields.xml"
+"--enummethods=Transforms/EnumMethods.xml"
 --api-level=33
+--type-map-report="obj/Debug/generated/type-mapping.txt"
 --global
 --public
+"--doc-comment-verbosity=intellisense"

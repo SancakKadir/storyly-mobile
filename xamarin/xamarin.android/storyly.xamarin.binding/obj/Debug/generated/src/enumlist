@@ -1,0 +1,11 @@
+com.appsamurai.storyly.analytics.StorylyEvent:Com.Appsamurai.Storyly.Analytics:StorylyEvent
+com.appsamurai.storyly.PlayMode:Com.Appsamurai.Storyly:PlayMode
+com.appsamurai.storyly.ShareType:Com.Appsamurai.Storyly:ShareType
+com.appsamurai.storyly.StoryComponentType:Com.Appsamurai.Storyly:StoryComponentType
+com.appsamurai.storyly.StoryGroupAnimation:Com.Appsamurai.Storyly:StoryGroupAnimation
+com.appsamurai.storyly.StoryGroupListOrientation:Com.Appsamurai.Storyly:StoryGroupListOrientation
+com.appsamurai.storyly.StoryGroupSize:Com.Appsamurai.Storyly:StoryGroupSize
+com.appsamurai.storyly.StoryGroupType:Com.Appsamurai.Storyly:StoryGroupType
+com.appsamurai.storyly.StorylyDataSource:Com.Appsamurai.Storyly:StorylyDataSource
+com.appsamurai.storyly.StorylyLayoutDirection:Com.Appsamurai.Storyly:StorylyLayoutDirection
+com.appsamurai.storyly.StoryType:Com.Appsamurai.Storyly:StoryType

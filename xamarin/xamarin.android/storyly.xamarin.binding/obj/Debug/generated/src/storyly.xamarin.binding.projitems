@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25;ANDROID_26;ANDROID_27;ANDROID_28;ANDROID_29;ANDROID_30;ANDROID_31;ANDROID_32;ANDROID_33</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.AD.IStorylyAdViewListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.AD.IStorylyAdViewProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.AD.StorylyAdView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Analytics.StorylyEvent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.StorylyConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.StorylyProductConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.StorylyShareConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Bar.StorylyBarStyling.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Group.StoryGroupView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Group.StoryGroupViewFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Group.StorylyStoryGroupStyling.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Moments.MomentsCustomFont.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Moments.StorylyMomentsIconStyling.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Moments.StorylyMomentsLinkCTAStyling.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Moments.StorylyMomentsStyling.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Moments.StorylyMomentsTextStyling.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Config.Styling.Story.StorylyStoryStyling.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Data.Managers.Product.STRCart.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Data.Managers.Product.STRCartEventResult.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Data.Managers.Product.STRCartItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Data.Managers.Product.STRProductInformation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Data.Managers.Product.STRProductItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Data.Managers.Product.STRProductVariant.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.IStorylyListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.IStorylyMomentsListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.IStorylyProductListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.MomentsUser.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.PlayMode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.ShareType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Story.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryCommentComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryComponentType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryEmojiComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryGroup.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryGroupAnimation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryGroupBadgeStyle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryGroupListOrientation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryGroupSize.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryGroupStyle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryGroupType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryImageQuizComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StorylyDataSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StorylyInit.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StorylyLayoutDirection.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Storylylist.MomentsItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Storylylist.StorylyListRecyclerView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StorylyView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryMedia.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryPollComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryPromoCodeComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryQuizComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryRatingComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.StoryType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Appsamurai.Storyly.Util.Notification.StorylyNotificationReceiver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>
