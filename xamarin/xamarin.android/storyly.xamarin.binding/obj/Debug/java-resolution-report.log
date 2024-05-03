@@ -1,0 +1,751 @@
+==== Cycle 1 ====
+
+The class '[Class] com.appsamurai.storyly.i' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.MomentsUser.MomentsUser' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The method '[Method] com.appsamurai.storyly.MomentsUser copy$default(com.appsamurai.storyly.MomentsUser p0, java.lang.String p1, java.lang.String p2, java.lang.String p3, int p4, java.lang.Object p5)' was removed because its name contains a dollar sign.
+The method '[Method] void getAvatarURL$annotations()' was removed because its name contains a dollar sign.
+The method '[Method] void getUserId$annotations()' was removed because its name contains a dollar sign.
+The method '[Method] void getUsername$annotations()' was removed because its name contains a dollar sign.
+The method '[Method] void write$Self(com.appsamurai.storyly.MomentsUser self, kotlinx.serialization.encoding.CompositeEncoder output, kotlinx.serialization.descriptors.SerialDescriptor serialDesc)' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.MomentsUser.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.MomentsUser>' could not be found.
+The class '[Class] com.appsamurai.storyly.n' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.o' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.p' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.PlayMode.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.PlayMode>' could not be found.
+The class '[Class] com.appsamurai.storyly.ShareType.ShareTypeDeserializer' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.ShareType>' could not be found.
+The method '[Method] com.appsamurai.storyly.Story copy$default(com.appsamurai.storyly.Story p0, java.lang.String p1, java.lang.String p2, java.lang.String p3, int p4, boolean p5, long p6, com.appsamurai.storyly.StoryMedia p7, java.util.List p8, int p9, java.lang.Object p10)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryCommentComponent copy$default(com.appsamurai.storyly.StoryCommentComponent p0, java.lang.String p1, java.lang.String p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryEmojiComponent copy$default(com.appsamurai.storyly.StoryEmojiComponent p0, java.lang.String p1, java.util.List p2, int p3, java.lang.String p4, int p5, java.lang.Object p6)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryGroup copy$default(com.appsamurai.storyly.StoryGroup p0, java.lang.String p1, java.lang.String p2, java.lang.String p3, java.util.Map p4, java.lang.String p5, int p6, boolean p7, java.util.List p8, boolean p9, com.appsamurai.storyly.StoryGroupType p10, com.appsamurai.storyly.MomentsUser p11, com.appsamurai.storyly.StoryGroupStyle p12, java.lang.String p13, boolean p14, int p15, java.lang.Object p16)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryGroupBadgeStyle copy$default(com.appsamurai.storyly.StoryGroupBadgeStyle p0, java.lang.String p1, java.lang.Integer p2, java.lang.Integer p3, java.lang.Long p4, java.lang.String p5, int p6, java.lang.Object p7)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryGroupStyle copy$default(com.appsamurai.storyly.StoryGroupStyle p0, java.util.List p1, java.lang.Integer p2, com.appsamurai.storyly.StoryGroupBadgeStyle p3, int p4, java.lang.Object p5)' was removed because its name contains a dollar sign.
+The method '[Method] kotlinx.serialization.descriptors.SerialDescriptor access$getDescriptor$cp()' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.StoryGroupType.StoryGroupTypeDeserializer' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.StoryGroupType>' could not be found.
+The method '[Method] com.appsamurai.storyly.StoryImageQuizComponent copy$default(com.appsamurai.storyly.StoryImageQuizComponent p0, java.lang.String p1, java.lang.String p2, java.util.List p3, java.lang.Integer p4, int p5, java.lang.String p6, int p7, java.lang.Object p8)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StorylyInit copy$default(com.appsamurai.storyly.StorylyInit p0, java.lang.String p1, com.appsamurai.storyly.config.StorylyConfig p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The method '[Method] int getLayoutDirection$storyly_release()' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.managers.ad.b access$getAdViewManager(com.appsamurai.storyly.StorylyView p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.localization.a access$getLocalizationManager(com.appsamurai.storyly.StorylyView p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.managers.processing.g access$getStorylyDataManager(com.appsamurai.storyly.StorylyView p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.storylypresenter.b access$getStorylyDialog$p(com.appsamurai.storyly.StorylyView p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.storylylist.StorylyListRecyclerView access$getStorylyListRecyclerView(com.appsamurai.storyly.StorylyView p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.analytics.e access$getStorylyTracker(com.appsamurai.storyly.StorylyView p0)' was removed because its name contains a dollar sign.
+The method '[Method] boolean access$isStorylyPlaying$p(com.appsamurai.storyly.StorylyView p0)' was removed because its name contains a dollar sign.
+The method '[Method] void access$loadData(com.appsamurai.storyly.StorylyView p0, java.util.List p1, com.appsamurai.storyly.data.managers.processing.f p2, com.appsamurai.storyly.data.managers.network.f p3, long p4)' was removed because its name contains a dollar sign.
+The method '[Method] void access$onStoryEvent(com.appsamurai.storyly.StorylyView p0, com.appsamurai.storyly.analytics.StorylyEvent p1, com.appsamurai.storyly.StoryGroup p2, com.appsamurai.storyly.Story p3, com.appsamurai.storyly.StoryComponent p4)' was removed because its name contains a dollar sign.
+The method '[Method] void access$onStorylyDismissed(com.appsamurai.storyly.StorylyView p0)' was removed because its name contains a dollar sign.
+The method '[Method] void access$onStoryProductEvent(com.appsamurai.storyly.StorylyView p0, com.appsamurai.storyly.analytics.StorylyEvent p1, kotlin.jvm.functions.Function1 p2, kotlin.jvm.functions.Function1 p3, com.appsamurai.storyly.data.managers.product.STRCart p4, com.appsamurai.storyly.data.managers.product.STRCartItem p5)' was removed because its name contains a dollar sign.
+The method '[Method] void access$setPreviousSelectedStorylyGroupIndex$p(com.appsamurai.storyly.StorylyView p0, java.lang.Integer p1)' was removed because its name contains a dollar sign.
+The method '[Method] void access$setupView(com.appsamurai.storyly.StorylyView p0)' was removed because its name contains a dollar sign.
+The method '[Method] void access$updateData(com.appsamurai.storyly.StorylyView p0, com.appsamurai.storyly.data.y p1, com.appsamurai.storyly.data.managers.processing.f p2)' was removed because its name contains a dollar sign.
+The method '[Method] void access$updateOrientation(com.appsamurai.storyly.StorylyView p0, int p1)' was removed because its name contains a dollar sign.
+The method '[Method] void closeStory$default(com.appsamurai.storyly.StorylyView p0, java.lang.Integer p1, int p2, java.lang.Object p3)' was removed because its name contains a dollar sign.
+The method '[Method] boolean openStory$default(com.appsamurai.storyly.StorylyView p0, java.lang.String p1, java.lang.String p2, com.appsamurai.storyly.PlayMode p3, int p4, java.lang.Object p5)' was removed because its name contains a dollar sign.
+The method '[Method] void pauseStory$default(com.appsamurai.storyly.StorylyView p0, java.lang.Integer p1, int p2, java.lang.Object p3)' was removed because its name contains a dollar sign.
+The method '[Method] void resumeStory$default(com.appsamurai.storyly.StorylyView p0, java.lang.Integer p1, int p2, java.lang.Object p3)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryMedia copy$default(com.appsamurai.storyly.StoryMedia p0, com.appsamurai.storyly.StoryType p1, java.util.List p2, java.util.List p3, java.lang.String p4, java.lang.String p5, int p6, java.lang.Object p7)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryPollComponent copy$default(com.appsamurai.storyly.StoryPollComponent p0, java.lang.String p1, java.lang.String p2, java.util.List p3, int p4, java.lang.String p5, int p6, java.lang.Object p7)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryPromoCodeComponent copy$default(com.appsamurai.storyly.StoryPromoCodeComponent p0, java.lang.String p1, java.lang.String p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryQuizComponent copy$default(com.appsamurai.storyly.StoryQuizComponent p0, java.lang.String p1, java.lang.String p2, java.util.List p3, java.lang.Integer p4, int p5, java.lang.String p6, int p7, java.lang.Object p8)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryRatingComponent copy$default(com.appsamurai.storyly.StoryRatingComponent p0, java.lang.String p1, java.lang.String p2, int p3, java.lang.String p4, int p5, java.lang.Object p6)' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.StoryType.StoryTypeDeserializer' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.StoryType>' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.b.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.analytics.b>' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.c.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.analytics.c>' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.d.a' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The method '[Method] void a(com.appsamurai.storyly.analytics.a p0, com.appsamurai.storyly.data.b0 p1, com.appsamurai.storyly.data.f0 p2, com.appsamurai.storyly.data.h0 p3, com.appsamurai.storyly.StoryComponent p4, kotlinx.serialization.json.JsonObject p5, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit> p6, kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCart, kotlin.Unit> p7, kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCartEventResult, kotlin.Unit> p8, com.appsamurai.storyly.data.managers.product.STRCart p9, com.appsamurai.storyly.data.managers.product.STRCartItem p10)' was removed because the Java parameter type 'kotlinx.serialization.json.JsonObject' could not be found.
+The method '[Method] void a(com.appsamurai.storyly.analytics.e p0, com.appsamurai.storyly.analytics.a p1, com.appsamurai.storyly.data.b0 p2, com.appsamurai.storyly.data.f0 p3, com.appsamurai.storyly.data.h0 p4, com.appsamurai.storyly.StoryComponent p5, kotlinx.serialization.json.JsonObject p6, kotlin.jvm.functions.Function1 p7, kotlin.jvm.functions.Function1 p8, kotlin.jvm.functions.Function1 p9, com.appsamurai.storyly.data.managers.product.STRCart p10, com.appsamurai.storyly.data.managers.product.STRCartItem p11)' was removed because the Java parameter type 'kotlinx.serialization.json.JsonObject' could not be found.
+The method '[Method] void a(com.appsamurai.storyly.analytics.e p0, com.appsamurai.storyly.analytics.a p1, com.appsamurai.storyly.data.b0 p2, com.appsamurai.storyly.data.f0 p3, com.appsamurai.storyly.data.h0 p4, com.appsamurai.storyly.StoryComponent p5, kotlinx.serialization.json.JsonObject p6, kotlin.jvm.functions.Function1 p7, kotlin.jvm.functions.Function1 p8, kotlin.jvm.functions.Function1 p9, com.appsamurai.storyly.data.managers.product.STRCart p10, com.appsamurai.storyly.data.managers.product.STRCartItem p11, int p12)' was removed because the Java parameter type 'kotlinx.serialization.json.JsonObject' could not be found.
+The method '[Method] kotlinx.serialization.json.JsonPrimitive a(com.appsamurai.storyly.StoryGroupType p0, com.appsamurai.storyly.data.b0 p1)' was removed because the Java return type 'kotlinx.serialization.json.JsonPrimitive' could not be found.
+The method '[Method] kotlinx.serialization.json.JsonPrimitive a(com.appsamurai.storyly.StoryGroupType p0, com.appsamurai.storyly.data.f0 p1)' was removed because the Java return type 'kotlinx.serialization.json.JsonPrimitive' could not be found.
+The method '[Method] void b(com.appsamurai.storyly.analytics.a p0, com.appsamurai.storyly.data.b0 p1, com.appsamurai.storyly.data.f0 p2, com.appsamurai.storyly.data.h0 p3, com.appsamurai.storyly.StoryComponent p4, kotlinx.serialization.json.JsonObject p5, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit> p6, kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCart, kotlin.Unit> p7, kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCartEventResult, kotlin.Unit> p8, com.appsamurai.storyly.data.managers.product.STRCart p9, com.appsamurai.storyly.data.managers.product.STRCartItem p10)' was removed because the Java parameter type 'kotlinx.serialization.json.JsonObject' could not be found.
+The method '[Method] void b(com.appsamurai.storyly.analytics.e p0, com.appsamurai.storyly.analytics.a p1, com.appsamurai.storyly.data.b0 p2, com.appsamurai.storyly.data.f0 p3, com.appsamurai.storyly.data.h0 p4, com.appsamurai.storyly.StoryComponent p5, kotlinx.serialization.json.JsonObject p6, kotlin.jvm.functions.Function1 p7, kotlin.jvm.functions.Function1 p8, kotlin.jvm.functions.Function1 p9, com.appsamurai.storyly.data.managers.product.STRCart p10, com.appsamurai.storyly.data.managers.product.STRCartItem p11, int p12)' was removed because the Java parameter type 'kotlinx.serialization.json.JsonObject' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.analytics.e.d' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The method '[Method] kotlinx.serialization.json.JsonArray a(java.util.List<com.appsamurai.storyly.data.b0> p0)' was removed because the Java return type 'kotlinx.serialization.json.JsonArray' could not be found.
+The method '[Method] kotlinx.serialization.json.JsonObject a(java.util.List<com.appsamurai.storyly.data.b0> p0, com.appsamurai.storyly.data.b0 p1, com.appsamurai.storyly.config.StorylyConfig p2)' was removed because the Java return type 'kotlinx.serialization.json.JsonObject' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.f.a' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.g' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.h' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.i' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonObjectBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.j' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonObjectBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.k' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonObjectBuilder, kotlin.Unit>' could not be found.
+The method '[Method] com.appsamurai.storyly.config.styling.bar.StorylyBarStyling component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean component11$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String component12$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.group.StorylyStoryGroupStyling component2$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.story.StorylyStoryStyling component3$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsStyling component4$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.StorylyProductConfig component5$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.StorylyShareConfig component6$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StorylyLayoutDirection component7$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String component8$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.StorylyConfig copy$default(com.appsamurai.storyly.config.StorylyConfig p0, com.appsamurai.storyly.config.styling.bar.StorylyBarStyling p1, com.appsamurai.storyly.config.styling.group.StorylyStoryGroupStyling p2, com.appsamurai.storyly.config.styling.story.StorylyStoryStyling p3, com.appsamurai.storyly.config.styling.moments.StorylyMomentsStyling p4, com.appsamurai.storyly.config.StorylyProductConfig p5, com.appsamurai.storyly.config.StorylyShareConfig p6, com.appsamurai.storyly.StorylyLayoutDirection p7, java.lang.String p8, com.appsamurai.storyly.util.r p9, com.appsamurai.storyly.util.r p10, boolean p11, java.lang.String p12, int p13, java.lang.Object p14)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.bar.StorylyBarStyling getBar$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getCountry$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getCustomParameter$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.group.StorylyStoryGroupStyling getGroup$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getLanguage$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StorylyLayoutDirection getLayoutDirection$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getLocale$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsStyling getMoments$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<com.appsamurai.storyly.data.managers.processing.f, kotlin.Unit> getOnDataUpdate$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.StorylyProductConfig getProduct$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.StorylyShareConfig getShare$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.story.StorylyStoryStyling getStory$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.u0 getStorylyStyle$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean isTestMode$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setBar$storyly_release(com.appsamurai.storyly.config.styling.bar.StorylyBarStyling p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setCountry$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setCustomParameter$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setGroup$storyly_release(com.appsamurai.storyly.config.styling.group.StorylyStoryGroupStyling p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setLanguage$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setLayoutDirection$storyly_release(com.appsamurai.storyly.StorylyLayoutDirection p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setLocale$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setMoments$storyly_release(com.appsamurai.storyly.config.styling.moments.StorylyMomentsStyling p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnDataUpdate$storyly_release(kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.processing.f, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setProduct$storyly_release(com.appsamurai.storyly.config.StorylyProductConfig p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setShare$storyly_release(com.appsamurai.storyly.config.StorylyShareConfig p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStory$storyly_release(com.appsamurai.storyly.config.styling.story.StorylyStoryStyling p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyStyle$storyly_release(com.appsamurai.storyly.data.u0 p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTestMode$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.util.formatter.f component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean component2$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean component3$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.Map<java.lang.String, java.util.List<com.appsamurai.storyly.data.managers.product.STRProductItem>> component4$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.StorylyProductConfig copy$default(com.appsamurai.storyly.config.StorylyProductConfig p0, com.appsamurai.storyly.util.formatter.f p1, boolean p2, boolean p3, java.util.Map p4, int p5, java.lang.Object p6)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.Map<java.lang.String, java.util.List<com.appsamurai.storyly.data.managers.product.STRProductItem>> getFeed$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.util.formatter.f getPriceFormatter$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean isCartEnabled$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean isFallbackEnabled$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setCartEnabled$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setFallbackEnabled$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setFeed$storyly_release(java.util.Map<java.lang.String, ? extends java.util.List<com.appsamurai.storyly.data.managers.product.STRProductItem>> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setPriceFormatter$storyly_release(com.appsamurai.storyly.util.formatter.f p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String component2$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.StorylyShareConfig copy$default(com.appsamurai.storyly.config.StorylyShareConfig p0, java.lang.String p1, java.lang.String p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getFacebookAppID$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getUrl$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setFacebookAppID$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setUrl$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.config.styling.b.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.config.styling.b>' could not be found.
+The class '[Class] com.appsamurai.storyly.config.styling.c.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.config.styling.c>' could not be found.
+The method '[Method] com.appsamurai.storyly.StoryGroupListOrientation component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int component2$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int component3$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int component4$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.bar.StorylyBarStyling copy$default(com.appsamurai.storyly.config.styling.bar.StorylyBarStyling p0, com.appsamurai.storyly.StoryGroupListOrientation p1, int p2, int p3, int p4, java.lang.Integer p5, java.lang.Integer p6, int p7, java.lang.Object p8)' was removed because its name contains a dollar sign.
+The method '[Method] int getHorizontalEdgePadding$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getHorizontalPaddingBetweenItems$storyly_release(com.appsamurai.storyly.StoryGroupSize p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryGroupListOrientation getOrientation$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getSection$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getVerticalEdgePadding$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getVerticalPaddingBetweenItems$storyly_release(com.appsamurai.storyly.StoryGroupSize p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setHorizontalEdgePadding$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOrientation$storyly_release(com.appsamurai.storyly.StoryGroupListOrientation p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setSection$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setVerticalEdgePadding$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<java.lang.Integer> component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int component10$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int component11$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface component12$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Integer component14$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Integer component15$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Integer component16$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean component17$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryGroupSize component18$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.group.StoryGroupViewFactory component19$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<java.lang.Integer> component2$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int component3$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String component7$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryGroupAnimation component8$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int component9$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.group.StorylyStoryGroupStyling copy$default(com.appsamurai.storyly.config.styling.group.StorylyStoryGroupStyling p0, java.util.List p1, java.util.List p2, int p3, java.lang.Integer p4, java.lang.Integer p5, int p6, java.lang.String p7, com.appsamurai.storyly.StoryGroupAnimation p8, int p9, int p10, int p11, android.graphics.Typeface p12, kotlin.Pair p13, java.lang.Integer p14, java.lang.Integer p15, java.lang.Integer p16, boolean p17, com.appsamurai.storyly.StoryGroupSize p18, com.appsamurai.storyly.config.styling.group.StoryGroupViewFactory p19, int p20, java.lang.Object p21)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.group.StoryGroupViewFactory getGroupViewFactory$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getIconBackgroundColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryGroupAnimation getIconBorderAnimation$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<java.lang.Integer> getIconBorderColorNotSeen$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<java.lang.Integer> getIconBorderColorSeen$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getIconCornerRadius$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getIconHeight$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getIconThematicImageLabel$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getIconWidth$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getPinIconColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.StoryGroupSize getSize$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Integer getTitleLineCount$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Integer getTitleMaxLineCount$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Integer getTitleMinLineCount$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getTitleNotSeenColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getTitleSeenColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.Pair<java.lang.Integer, java.lang.Integer> getTitleTextSize$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface getTitleTypeface$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean isTitleVisible$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setGroupViewFactory$storyly_release(com.appsamurai.storyly.config.styling.group.StoryGroupViewFactory p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setIconBackgroundColor$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setIconBorderAnimation$storyly_release(com.appsamurai.storyly.StoryGroupAnimation p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setIconBorderColorNotSeen$storyly_release(java.util.List<java.lang.Integer> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setIconBorderColorSeen$storyly_release(java.util.List<java.lang.Integer> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setIconThematicImageLabel$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setPinIconColor$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setSize$storyly_release(com.appsamurai.storyly.StoryGroupSize p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleLineCount$storyly_release(java.lang.Integer p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleMaxLineCount$storyly_release(java.lang.Integer p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleMinLineCount$storyly_release(java.lang.Integer p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleNotSeenColor$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleSeenColor$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleTypeface$storyly_release(android.graphics.Typeface p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleVisible$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface component2$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.MomentsCustomFont copy$default(com.appsamurai.storyly.config.styling.moments.MomentsCustomFont p0, java.lang.String p1, android.graphics.Typeface p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface getFont$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getIdentifier$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setFont$storyly_release(android.graphics.Typeface p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setIdentifier$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable component2$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable component3$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable component4$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable component5$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsIconStyling copy$default(com.appsamurai.storyly.config.styling.moments.StorylyMomentsIconStyling p0, android.graphics.drawable.Drawable p1, android.graphics.drawable.Drawable p2, android.graphics.drawable.Drawable p3, android.graphics.drawable.Drawable p4, android.graphics.drawable.Drawable p5, int p6, java.lang.Object p7)' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable getStoryLikeAnimationIcon$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable getStoryLikeIcon$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable getStoryOptionsIcon$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable getStoryUnlikeIcon$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable getStoryViewCountIcon$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setStoryLikeAnimationIcon$storyly_release(android.graphics.drawable.Drawable p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStoryLikeIcon$storyly_release(android.graphics.drawable.Drawable p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStoryOptionsIcon$storyly_release(android.graphics.drawable.Drawable p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStoryUnlikeIcon$storyly_release(android.graphics.drawable.Drawable p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStoryViewCountIcon$storyly_release(android.graphics.drawable.Drawable p0)' was removed because its name contains a dollar sign.
+The method '[Method] int component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsLinkCTAStyling copy$default(com.appsamurai.storyly.config.styling.moments.StorylyMomentsLinkCTAStyling p0, int p1, int p2, java.lang.Object p3)' was removed because its name contains a dollar sign.
+The method '[Method] int getLinkTextColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsIconStyling component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsLinkCTAStyling component2$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsTextStyling component3$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean component4$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsStyling copy$default(com.appsamurai.storyly.config.styling.moments.StorylyMomentsStyling p0, com.appsamurai.storyly.config.styling.moments.StorylyMomentsIconStyling p1, com.appsamurai.storyly.config.styling.moments.StorylyMomentsLinkCTAStyling p2, com.appsamurai.storyly.config.styling.moments.StorylyMomentsTextStyling p3, boolean p4, int p5, java.lang.Object p6)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsIconStyling getIconStyling$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsLinkCTAStyling getLinkCTAStyling$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean getShowMomentsUserAnalytics$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsTextStyling getTextStyling$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setLinkCTAStyling$storyly_release(com.appsamurai.storyly.config.styling.moments.StorylyMomentsLinkCTAStyling p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setShowMomentsUserAnalytics$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTextStyling$storyly_release(com.appsamurai.storyly.config.styling.moments.StorylyMomentsTextStyling p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.Map<java.lang.String, android.graphics.Typeface> component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.moments.StorylyMomentsTextStyling copy$default(com.appsamurai.storyly.config.styling.moments.StorylyMomentsTextStyling p0, java.util.Map p1, int p2, java.lang.Object p3)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.Map<java.lang.String, android.graphics.Typeface> getCustomFontMap$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface getMomentsCustomFont$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<java.lang.Integer> component1$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable component10$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int component2$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface component3$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface component4$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<java.lang.Integer> component5$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean component6$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean component7$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean component8$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable component9$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.story.StorylyStoryStyling copy$default(com.appsamurai.storyly.config.styling.story.StorylyStoryStyling p0, java.util.List p1, int p2, android.graphics.Typeface p3, android.graphics.Typeface p4, java.util.List p5, boolean p6, boolean p7, boolean p8, android.graphics.drawable.Drawable p9, android.graphics.drawable.Drawable p10, int p11, java.lang.Object p12)' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable getCloseButtonIcon$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<java.lang.Integer> getHeaderIconBorderColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface getInteractiveTypeface$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<java.lang.Integer> getProgressBarColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.drawable.Drawable getShareButtonIcon$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getTitleColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface getTitleTypeface$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Typeface get_interactiveTypeface$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean isCloseButtonVisible$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean isHeaderIconVisible$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean isTitleVisible$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setCloseButtonIcon$storyly_release(android.graphics.drawable.Drawable p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setCloseButtonVisible$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setHeaderIconBorderColor$storyly_release(java.util.List<java.lang.Integer> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setHeaderIconVisible$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setProgressBarColor$storyly_release(java.util.List<java.lang.Integer> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setShareButtonIcon$storyly_release(android.graphics.drawable.Drawable p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleColor$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleTypeface$storyly_release(android.graphics.Typeface p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTitleVisible$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] void set_interactiveTypeface$storyly_release(android.graphics.Typeface p0)' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.data.a.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.a>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.a0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.a0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.b.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.b>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.b0.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.b0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.c.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.c>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.c0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.c0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.d.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.d>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.d0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.d0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.e.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.e>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.e0.e0' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.e0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.e0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.f.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.f>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.f0.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.f0>' could not be found.
+The method '[Method] void a(com.appsamurai.storyly.data.g0 p0, kotlinx.serialization.encoding.CompositeEncoder p1, kotlinx.serialization.descriptors.SerialDescriptor p2)' was removed because the Java parameter type 'kotlinx.serialization.encoding.CompositeEncoder' could not be found.
+The method '[Method] void a(com.appsamurai.storyly.data.g0 p0, kotlinx.serialization.encoding.CompositeEncoder p1, kotlinx.serialization.descriptors.SerialDescriptor p2)' was removed because the Java parameter type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.g0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.g0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.h0.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.h0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.i.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.i>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.i0.i0' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.i0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.i0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.j.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.j>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.j0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.j0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.k.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.k>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.k0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.k0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.l.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.l>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.l0.l0' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.l0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.l0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.m.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.m>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.m0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.m0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.n.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.n>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.o.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.o>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.o0.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.o0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.p.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.p>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.p0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.p0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.q.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.q>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.q0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.q0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.r.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.r>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.r0.r0' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.r0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.r0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.s.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.s>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.s0.s0' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.s0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.s0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.t.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.t>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.t0.t0' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.t0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.t0>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.u.u' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.u.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.u>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.u0.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.u0>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.v.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.v>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.v0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.v0>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.w.w' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.w.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.w>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.w0.w0' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.w0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.w0>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.x.x' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.x.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.x>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.x0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.x0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.y.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.y>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.y0.y0' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.y0.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.y0>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.z.z' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The class '[Class] com.appsamurai.storyly.data.z.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.z>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.z0.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.z0>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] kotlinx.serialization.json.JsonObject a(android.content.Context p0, com.appsamurai.storyly.StorylyInit p1, java.lang.String p2, java.lang.String p3, kotlinx.serialization.json.JsonObject p4, java.util.Map p5, int p6)' was removed because the Java return type 'kotlinx.serialization.json.JsonObject' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The constructor 'Constructor: com.appsamurai.storyly.data.managers.network.g.g' was removed because the Java parameter type 'kotlinx.coroutines.CoroutineDispatcher' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.coroutines.CoroutineDispatcher' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.network.g.b' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.b.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.managers.processing.b>' could not be found.
+The method '[Method] kotlinx.coroutines.CoroutineScope b()' was removed because the Java return type 'kotlinx.coroutines.CoroutineScope' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.g.a' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.i' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.j' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.n' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.o' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.p.a' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function0<kotlinx.serialization.json.Json>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.w' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.x.a' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function0<kotlinx.serialization.json.Json>' could not be found.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRCart copy$default(com.appsamurai.storyly.data.managers.product.STRCart p0, java.util.List p1, float p2, java.lang.Float p3, java.lang.String p4, int p5, java.lang.Object p6)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRCartEventResult copy$default(com.appsamurai.storyly.data.managers.product.STRCartEventResult p0, java.lang.String p1, int p2, java.lang.Object p3)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRCartItem copy$default(com.appsamurai.storyly.data.managers.product.STRCartItem p0, com.appsamurai.storyly.data.managers.product.STRProductItem p1, int p2, java.lang.Float p3, java.lang.Float p4, int p5, java.lang.Object p6)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRProductInformation copy$default(com.appsamurai.storyly.data.managers.product.STRProductInformation p0, java.lang.String p1, java.lang.String p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The constructor 'Constructor: com.appsamurai.storyly.data.managers.product.STRProductItem.STRProductItem' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRProductItem clone$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRProductItem copy$default(com.appsamurai.storyly.data.managers.product.STRProductItem p0, java.lang.String p1, java.lang.String p2, java.lang.String p3, java.lang.String p4, java.lang.String p5, float p6, java.lang.Float p7, java.lang.String p8, java.util.List p9, java.util.List p10, java.lang.String p11, int p12, java.lang.Object p13)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Integer getAccountId$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getFormattedPrice$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getFormattedSalesPrice$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getId$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean hasSpecialPrice$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean isContentSame$storyly_release(com.appsamurai.storyly.data.managers.product.STRProductItem p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String provideFormattedPrice$storyly_release(com.appsamurai.storyly.config.StorylyConfig p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String provideFormattedSalesPrice$storyly_release(com.appsamurai.storyly.config.StorylyConfig p0)' was removed because its name contains a dollar sign.
+The method '[Method] void serialize$storyly_release$default(com.appsamurai.storyly.data.managers.product.STRProductItem p0, kotlinx.serialization.json.JsonObjectBuilder p1, java.lang.String p2, java.lang.String p3, java.lang.Integer p4, java.lang.Float p5, int p6, java.lang.Object p7)' was removed because its name contains a dollar sign.
+The method '[Method] void serialize$storyly_release(kotlinx.serialization.json.JsonObjectBuilder p0, java.lang.String p1, java.lang.String p2, java.lang.Integer p3, java.lang.Float p4)' was removed because its name contains a dollar sign.
+The method '[Method] void setAccountId$storyly_release(java.lang.Integer p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setFormattedPrice$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setFormattedSalesPrice$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setId$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] void write$Self(com.appsamurai.storyly.data.managers.product.STRProductItem self, kotlinx.serialization.encoding.CompositeEncoder output, kotlinx.serialization.descriptors.SerialDescriptor serialDesc)' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.data.managers.product.STRProductItem.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.managers.product.STRProductItem>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.data.managers.product.STRProductVariant.STRProductVariant' was removed because the Java parameter type 'kotlinx.serialization.internal.SerializationConstructorMarker' could not be found.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRProductVariant copy$default(com.appsamurai.storyly.data.managers.product.STRProductVariant p0, java.lang.String p1, java.lang.String p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRProductVariant copy$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Integer getOrder$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.managers.product.d getSourceType$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean isEnabled$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setEnabled$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOrder$storyly_release(java.lang.Integer p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setSourceType$storyly_release(com.appsamurai.storyly.data.managers.product.d p0)' was removed because its name contains a dollar sign.
+The method '[Method] void write$Self(com.appsamurai.storyly.data.managers.product.STRProductVariant self, kotlinx.serialization.encoding.CompositeEncoder output, kotlinx.serialization.descriptors.SerialDescriptor serialDesc)' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.data.managers.product.STRProductVariant.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.data.managers.product.STRProductVariant>' could not be found.
+The method '[Method] com.appsamurai.storyly.data.b0 getStorylyGroupItem$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyGroupItem$storyly_release(com.appsamurai.storyly.data.b0 p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyIconGroupAnimation$storyly_release(com.appsamurai.storyly.StoryGroupAnimation p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.config.styling.group.StoryGroupView getStoryGroupView$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setStoryGroupView$storyly_release(com.appsamurai.storyly.config.styling.group.StoryGroupView p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getTag$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setTag$storyly_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function2<com.appsamurai.storyly.data.b0, java.lang.Integer, kotlin.Unit> getOnStorylyGroupSelected$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<com.appsamurai.storyly.data.b0> getStorylyGroupItems$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStorylyGroupSelected$storyly_release(kotlin.jvm.functions.Function2<? super com.appsamurai.storyly.data.b0, ? super java.lang.Integer, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyAdapterData$storyly_release(java.util.List<com.appsamurai.storyly.data.b0> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.storylypresenter.a.f' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.b0' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The method '[Method] com.appsamurai.storyly.storylypresenter.StorylyGroupRecyclerView.linearLayoutManager.2.1 a(com.appsamurai.storyly.storylypresenter.c p0)' was removed because the Java return type 'com.appsamurai.storyly.storylypresenter.StorylyGroupRecyclerView.linearLayoutManager.2.1' could not be found.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnClosed$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnCompleted$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnDismissed$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<com.appsamurai.storyly.data.f0, java.lang.Boolean> getOnStoryConditionCheck$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function3<com.appsamurai.storyly.StoryGroup, com.appsamurai.storyly.Story, com.appsamurai.storyly.StoryComponent, kotlin.Unit> getOnStoryLayerInteraction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<com.appsamurai.storyly.Story, kotlin.Unit> getOnStorylyActionClicked$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<com.appsamurai.storyly.data.b0, kotlin.Unit> getOnStorylyGroupShown$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function2<com.appsamurai.storyly.StoryGroup, com.appsamurai.storyly.Story, kotlin.Unit> getOnStorylyHeaderClicked$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnClosed$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnCompleted$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnDismissed$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStoryConditionCheck$storyly_release(kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.f0, java.lang.Boolean> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStoryLayerInteraction$storyly_release(kotlin.jvm.functions.Function3<? super com.appsamurai.storyly.StoryGroup, ? super com.appsamurai.storyly.Story, ? super com.appsamurai.storyly.StoryComponent, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStorylyActionClicked$storyly_release(kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.Story, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStorylyGroupShown$storyly_release(kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.b0, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStorylyHeaderClicked$storyly_release(kotlin.jvm.functions.Function2<? super com.appsamurai.storyly.StoryGroup, ? super com.appsamurai.storyly.Story, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.storylypresenter.c.d' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function0<com.appsamurai.storyly.storylypresenter.StorylyGroupRecyclerView.linearLayoutManager.2.1>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.d1' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, ? extends kotlin.Unit>, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.e1' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.f0' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.f1' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.g0' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.j0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.k0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.l0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRCart getCart$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnClosed$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnCompleted$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnDismissed$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnPrevious$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<java.lang.Boolean, kotlin.Unit> getOnPullDown$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<com.appsamurai.storyly.data.f0, java.lang.Boolean> getOnStoryConditionCheck$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function3<com.appsamurai.storyly.StoryGroup, com.appsamurai.storyly.Story, com.appsamurai.storyly.StoryComponent, kotlin.Unit> getOnStoryLayerInteraction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<com.appsamurai.storyly.Story, kotlin.Unit> getOnStorylyActionClicked$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function2<com.appsamurai.storyly.StoryGroup, com.appsamurai.storyly.Story, kotlin.Unit> getOnStorylyHeaderClicked$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<java.lang.Float, kotlin.Unit> getOnSwipeDown$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnSwipeHorizontal$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnTouchUp$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean getShowMomentsUserAnalytics$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.b0 getStorylyGroupItem$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<com.appsamurai.storyly.data.b0> getStorylyGroupItems$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.b0 getTempStorylyGroupItem$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setCart$storyly_release(com.appsamurai.storyly.data.managers.product.STRCart p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnClosed$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnCompleted$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnDismissed$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnPrevious$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnPullDown$storyly_release(kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStoryConditionCheck$storyly_release(kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.f0, java.lang.Boolean> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStoryLayerInteraction$storyly_release(kotlin.jvm.functions.Function3<? super com.appsamurai.storyly.StoryGroup, ? super com.appsamurai.storyly.Story, ? super com.appsamurai.storyly.StoryComponent, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStorylyActionClicked$storyly_release(kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.Story, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnStorylyHeaderClicked$storyly_release(kotlin.jvm.functions.Function2<? super com.appsamurai.storyly.StoryGroup, ? super com.appsamurai.storyly.Story, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnSwipeDown$storyly_release(kotlin.jvm.functions.Function1<? super java.lang.Float, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnSwipeHorizontal$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnTouchUp$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setShowMomentsUserAnalytics$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyGroupItem$storyly_release(com.appsamurai.storyly.data.b0 p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyGroupItems$storyly_release(java.util.List<com.appsamurai.storyly.data.b0> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setTempStorylyGroupItem$storyly_release(com.appsamurai.storyly.data.b0 p0)' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.storylypresenter.m.c' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.m0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.n' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.n0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.o' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.p' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.q' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.r' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.s' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The method '[Method] java.lang.ref.WeakReference<android.view.View> getInternalRootView$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.ref.WeakReference<com.appsamurai.storyly.storylypresenter.b> getInternalStorylyDialog$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnFragmentDismiss$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnFragmentStart$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setInternalRootView$storyly_release(java.lang.ref.WeakReference<android.view.View> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setInternalStorylyDialog$storyly_release(java.lang.ref.WeakReference<com.appsamurai.storyly.storylypresenter.b> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnFragmentDismiss$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnFragmentStart$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.storylypresenter.t' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.t0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.u' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.v' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.w' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.x' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.x0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.y' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.y0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.z0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The method '[Method] kotlin.jvm.functions.Function3<com.appsamurai.storyly.data.managers.product.STRCartItem, java.lang.Integer, kotlin.jvm.functions.Function0<kotlin.Unit>, kotlin.Unit> getOnUpdateCart$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUpdateCart$storyly_release(kotlin.jvm.functions.Function3<? super com.appsamurai.storyly.data.managers.product.STRCartItem, ? super java.lang.Integer, ? super kotlin.jvm.functions.Function0<kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setupView$storyly_release(com.appsamurai.storyly.data.managers.product.STRCartItem p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function3<com.appsamurai.storyly.data.managers.product.STRCartItem, java.lang.Integer, kotlin.jvm.functions.Function0<kotlin.Unit>, kotlin.Unit> getOnUpdateCart$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUpdateCart$storyly_release(kotlin.jvm.functions.Function3<? super com.appsamurai.storyly.data.managers.product.STRCartItem, ? super java.lang.Integer, ? super kotlin.jvm.functions.Function0<kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnGoToCheckout$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function4<com.appsamurai.storyly.data.managers.product.STRCartItem, java.lang.Integer, kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCart, kotlin.Unit>, kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCartEventResult, kotlin.Unit>, kotlin.Unit> getOnUpdateCart$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnGoToCheckout$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUpdateCart$storyly_release(kotlin.jvm.functions.Function4<? super com.appsamurai.storyly.data.managers.product.STRCartItem, ? super java.lang.Integer, ? super kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCart, kotlin.Unit>, ? super kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCartEventResult, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnGoToCheckout$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.storylypresenter.cart.sheet.a getState$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnGoToCheckout$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setState$storyly_release(com.appsamurai.storyly.storylypresenter.cart.sheet.a p0)' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionStarted$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionStarted$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnBuyNowClick$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.managers.product.STRProductItem getProduct$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getQuantity$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.storylypresenter.product.productdetail.c getState$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnBuyNowClick$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setProduct$storyly_release(com.appsamurai.storyly.data.managers.product.STRProductItem p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setQuantity$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setState$storyly_release(com.appsamurai.storyly.storylypresenter.product.productdetail.c p0)' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function4<com.appsamurai.storyly.data.managers.product.STRProductItem, java.lang.Integer, kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCart, kotlin.Unit>, kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCartEventResult, kotlin.Unit>, kotlin.Unit> getOnBuyNowClick$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnBuyNowSuccess$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<com.appsamurai.storyly.data.managers.product.STRProductItem, kotlin.Unit> getOnProductSelected$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnBuyNowClick$storyly_release(kotlin.jvm.functions.Function4<? super com.appsamurai.storyly.data.managers.product.STRProductItem, ? super java.lang.Integer, ? super kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCart, kotlin.Unit>, ? super kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRCartEventResult, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnBuyNowSuccess$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnProductSelected$storyly_release(kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRProductItem, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] boolean getClickEnabled$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getComponentHeight$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.storylypresenter.product.variant.c getHeaderAdapter$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<com.appsamurai.storyly.data.managers.product.STRProductVariant, kotlin.Unit> getOnVariantSelection$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setClickEnabled$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setComponentHeight$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnVariantSelection$storyly_release(kotlin.jvm.functions.Function1<? super com.appsamurai.storyly.data.managers.product.STRProductVariant, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.analytics.b getLikeStats$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean getLikeStatus$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setLikeStats$storyly_release(com.appsamurai.storyly.analytics.b p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setLikeStatus$storyly_release(boolean p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Integer getViewStats$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setViewStats$storyly_release(java.lang.Integer p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] long getCurrentPlayTime$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> g()' was removed because the Java return type 'kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.storylylayer.e.a.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.storylypresenter.storylylayer.e.a>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.storylylayer.e0' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionEnded$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionStarted$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionEnded$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionStarted$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The method '[Method] kotlin.jvm.functions.Function1<java.lang.Integer, kotlin.Unit> getOnAdReady$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnAdReady$storyly_release(kotlin.jvm.functions.Function1<? super java.lang.Integer, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<android.graphics.Bitmap> getOnExtractBackgroundBitmap$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionEnded$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionStarted$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnExtractBackgroundBitmap$storyly_release(kotlin.jvm.functions.Function0<android.graphics.Bitmap> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionEnded$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionStarted$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The method '[Method] android.widget.FrameLayout getAccessibilityLayerView$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Bitmap getCurrentBitmap$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnLayerLoad$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnLayerLoadFail$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.storylypresenter.storylylayer.f getSafeFrame$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.h0 getStorylyLayerItem$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.o0 getStorylyProductLayerItem$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setAccessibilityLayerView$storyly_release(android.widget.FrameLayout p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnLayerLoad$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnLayerLoadFail$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setSafeFrame$storyly_release(com.appsamurai.storyly.storylypresenter.storylylayer.f p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyLayerItem$storyly_release(com.appsamurai.storyly.data.h0 p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyProductLayerItem$storyly_release(com.appsamurai.storyly.data.o0 p0)' was removed because its name contains a dollar sign.
+The method '[Method] android.graphics.Bitmap getCurrentBitmap$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnBufferEnd$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnBufferStart$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<java.lang.Long, kotlin.Unit> getOnSessionTimeUpdated$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<java.lang.Integer, kotlin.Unit> getOnVideoReady$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnBufferEnd$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnBufferStart$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnSessionTimeUpdated$storyly_release(kotlin.jvm.functions.Function1<? super java.lang.Long, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnVideoReady$storyly_release(kotlin.jvm.functions.Function1<? super java.lang.Integer, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.exoplayer2.core.ExoPlayer' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.exoplayer2.common.video.VideoSize' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.storylypresenter.storylylayer.t.c' was removed because the Java implemented interface type 'com.appsamurai.storyly.exoplayer2.common.Player.Listener' could not be found.
+The method '[Method] double getIconLeadingPaddingRatio$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] double getIconSizeRatio$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionEnded$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionStarted$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] double getTextHorizontalPaddingRatio$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] double getTextSizeRatio$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] int getTooltipBottomPadding$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionEnded$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionStarted$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnImageReady$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnImageReady$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnImageReady$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnImageReady$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnImageReady$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.f0 getStorylyItem$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.appsamurai.storyly.data.d0 getStorylyLayer$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnImageReady$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyItem$storyly_release(com.appsamurai.storyly.data.f0 p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setStorylyLayer$storyly_release(com.appsamurai.storyly.data.d0 p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionEnded$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionStarted$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserTapPoint$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionEnded$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionStarted$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserTapPoint$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The method '[Method] int getComponentHeight$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function1<java.util.List<com.appsamurai.storyly.data.managers.product.STRProductItem>, kotlin.Unit> getOnProductClick$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionEnded$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionStarted$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setComponentHeight$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnProductClick$storyly_release(kotlin.jvm.functions.Function1<? super java.util.List<com.appsamurai.storyly.data.managers.product.STRProductItem>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionEnded$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionStarted$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionEnded$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function0<kotlin.Unit> getOnUserInteractionStarted$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlin.jvm.functions.Function5<com.appsamurai.storyly.analytics.a, com.appsamurai.storyly.data.h0, com.appsamurai.storyly.StoryComponent, kotlinx.serialization.json.JsonObject, kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> getOnUserReaction$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionEnded$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserInteractionStarted$storyly_release(kotlin.jvm.functions.Function0<kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setOnUserReaction$storyly_release(kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlin.jvm.functions.Function5<? super com.appsamurai.storyly.analytics.a, ? super com.appsamurai.storyly.data.h0, ? super com.appsamurai.storyly.StoryComponent, ? super kotlinx.serialization.json.JsonObject, ? super kotlin.jvm.functions.Function1<? super java.lang.Boolean, kotlin.Unit>, kotlin.Unit>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The class '[Class] com.appsamurai.storyly.util.animation.emitters.c.a' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.util.font.c.c' was removed because the Java parameter type 'kotlinx.coroutines.CancellableContinuation' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.coroutines.CancellableContinuation<byte[]>' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.util.font.d.d' was removed because the Java parameter type 'kotlinx.coroutines.CancellableContinuation' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.coroutines.CancellableContinuation<byte[]>' could not be found.
+The class '[Class] com.appsamurai.storyly.util.font.e' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.appsamurai.storyly.util.font.g' was removed because the Java base type 'kotlin.coroutines.jvm.internal.ContinuationImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.util.font.h.a' was removed because the Java implemented interface type 'kotlinx.serialization.internal.GeneratedSerializer<com.appsamurai.storyly.util.font.h>' could not be found.
+The method '[Method] androidx.appcompat.widget.AppCompatTextView getTextView$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] androidx.core.view.ContentInfoCompat onReceiveContent(androidx.core.view.ContentInfoCompat payload)' was removed because the Java return type 'androidx.core.view.ContentInfoCompat' could not be found.
+The method '[Method] int getAvatarBackgroundColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<java.lang.Integer> getBorderColor$storyly_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setAnalyticsAvatarBorder$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setAvatarBackgroundColor$storyly_release(int p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setBorderColor$storyly_release(java.util.List<java.lang.Integer> p0)' was removed because its name contains a dollar sign.
+
+==== Cycle 2 ====
+
+The method '[Method] kotlinx.serialization.KSerializer<com.appsamurai.storyly.PlayMode> serializer()' was removed because the Java return type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.PlayMode>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.ShareType.ShareTypeDeserializer' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.StoryGroupType.StoryGroupTypeDeserializer' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.StoryType.StoryTypeDeserializer' could not be found.
+The constructor 'Constructor: com.appsamurai.storyly.analytics.e.e.e.e' was removed because the Java parameter type 'kotlinx.serialization.json.JsonObject' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.json.JsonObject' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.e.f' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.analytics.f.b' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonObjectBuilder, kotlin.Unit>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.config.styling.b.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.b.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.b0.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.c.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.e.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.f.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.f0.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.h0.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.n.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.o.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.o0.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.p.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.q.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.r.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.u0.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.y.a' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.descriptors.SerialDescriptor' could not be found.
+The class '[Class] com.appsamurai.storyly.data.y0.b.a' was removed because the Java implemented interface type 'kotlinx.serialization.KSerializer<com.appsamurai.storyly.data.y0.b>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.z0.a' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.network.g.c' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.g.d' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function0<kotlinx.coroutines.CoroutineScope>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.a.g' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.m.i' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.storylylayer.e.c' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonBuilder, kotlin.Unit>' could not be found.
+
+==== Cycle 3 ====
+
+The class '[Class] com.appsamurai.storyly.analytics.e.h' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'com.appsamurai.storyly.data.y0.b.a' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.g.e' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function0<kotlinx.coroutines.CoroutineDispatcher>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.a.h' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.m.t' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function1<kotlinx.serialization.json.JsonArrayBuilder, kotlin.Unit>' could not be found.
+
+==== Cycle 4 ====
+
+The constructor 'Constructor: com.appsamurai.storyly.analytics.e.i.e.i' was removed because the Java parameter type 'kotlinx.serialization.json.JsonObject' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.serialization.json.JsonObject' could not be found.
+The class '[Class] com.appsamurai.storyly.data.managers.processing.g.f' was removed because the Java implemented interface type 'kotlin.jvm.functions.Function0<kotlinx.serialization.json.Json>' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.a.i' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+
+==== Cycle 5 ====
+
+The class '[Class] com.appsamurai.storyly.data.managers.processing.g.i' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.appsamurai.storyly.storylypresenter.a.j' was removed because the Java base type 'kotlin.jvm.internal.FunctionReferenceImpl' could not be found.
+
+==== Cycle 6 ====
+
+The class '[Class] com.appsamurai.storyly.data.managers.processing.g.m' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+

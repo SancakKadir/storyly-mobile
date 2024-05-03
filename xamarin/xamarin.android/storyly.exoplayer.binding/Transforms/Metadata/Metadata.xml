@@ -1,0 +1,9 @@
+<metadata>
+
+    <remove-node path="/api/package[@name='com.appsamurai.storyly.exoplayer2.metadata']/*[not(
+        @name='Metadata' or
+        @name='Metadata.Entry' or
+        @name='MetadataOutput'
+    )]" />
+
+</metadata>

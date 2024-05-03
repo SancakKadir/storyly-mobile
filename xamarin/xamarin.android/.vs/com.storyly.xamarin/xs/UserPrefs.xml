@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EDA6F10E-996A-4B59-B20D-1216BAC12DDD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_7_Pro_API_34" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="storyly.exoplayer.binding/Transforms/Metadata.xml">
+    <Files>
+      <File FileName="storyly.exoplayer.binding/Transforms/Metadata.xml" Line="1" Column="13" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Bindings.ClassParse.targets" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.storyly.xamarin" expanded="True">
+            <Node name="storyly.exoplayer.binding" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Jars" expanded="True" />
+              <Node name="Transforms" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.com.storyly.xamarin PreferredExecutionTarget="Android.Pixel_7_Pro_API_34" AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

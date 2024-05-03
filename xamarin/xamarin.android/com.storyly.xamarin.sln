@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.storyly.xamarin", "com.storyly.xamarin\com.storyly.xamarin.csproj", "{EDA6F10E-996A-4B59-B20D-1216BAC12DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storyly.xamarin.binding", "storyly.xamarin.binding\storyly.xamarin.binding.csproj", "{646A0063-1E26-46E8-801E-6BD88657B61F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storyly.exoplayer.binding", "storyly.exoplayer.binding\storyly.exoplayer.binding.csproj", "{5F18411B-9916-4C36-A0E5-4B7B23650BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA6F10E-996A-4B59-B20D-1216BAC12DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA6F10E-996A-4B59-B20D-1216BAC12DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA6F10E-996A-4B59-B20D-1216BAC12DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA6F10E-996A-4B59-B20D-1216BAC12DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646A0063-1E26-46E8-801E-6BD88657B61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646A0063-1E26-46E8-801E-6BD88657B61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646A0063-1E26-46E8-801E-6BD88657B61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646A0063-1E26-46E8-801E-6BD88657B61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F18411B-9916-4C36-A0E5-4B7B23650BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F18411B-9916-4C36-A0E5-4B7B23650BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F18411B-9916-4C36-A0E5-4B7B23650BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F18411B-9916-4C36-A0E5-4B7B23650BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4D4C58-C5CC-4092-A488-985C5CF7DD94}
+	EndGlobalSection
+EndGlobal

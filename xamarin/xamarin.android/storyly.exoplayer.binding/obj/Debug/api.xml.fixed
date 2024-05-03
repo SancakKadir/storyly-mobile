@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<api api-source="JavaTypeSystem">
+  <package name="com.appsamurai.storyly.exoplayer2" jni-name="com/appsamurai/storyly/exoplayer2" managedName="Appsamurai.Storyly.Exoplayer2" />
+  <package name="com.appsamurai.storyly.exoplayer2.decoder" jni-name="com/appsamurai/storyly/exoplayer2/decoder" managedName="Appsamurai.Storyly.Exoplayer2.Decoder">
+    <class abstract="true" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" jni-extends="Ljava/lang/Object;" final="false" name="Buffer" static="false" visibility="public" jni-signature="Lcom/appsamurai/storyly/exoplayer2/decoder/Buffer;">
+      <constructor deprecated="not deprecated" final="false" name="Buffer" jni-signature="()V" bridge="false" static="false" type="com.appsamurai.storyly.exoplayer2.decoder.Buffer" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="true" name="addFlag" jni-signature="(I)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="flag" type="int" jni-type="I" enumType="Google.Android.ExoPlayer2.BufferFlags" />
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="clear" jni-signature="()V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="true" name="clearFlag" jni-signature="(I)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="flag" type="int" jni-type="I" enumType="Google.Android.ExoPlayer2.BufferFlags" />
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="getFlag" jni-signature="(I)Z" bridge="false" native="false" return="boolean" jni-return="Z" static="false" synchronized="false" synthetic="false" visibility="protected">
+        <parameter name="flag" type="int" jni-type="I" enumType="Google.Android.ExoPlayer2.BufferFlags" />
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="hasSupplementalData" jni-signature="()Z" bridge="false" native="false" return="boolean" jni-return="Z" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="true" name="isDecodeOnly" jni-signature="()Z" bridge="false" native="false" return="boolean" jni-return="Z" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="true" name="isEndOfStream" jni-signature="()Z" bridge="false" native="false" return="boolean" jni-return="Z" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="true" name="isFirstSample" jni-signature="()Z" bridge="false" native="false" return="boolean" jni-return="Z" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="true" name="isKeyFrame" jni-signature="()Z" bridge="false" native="false" return="boolean" jni-return="Z" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="true" name="setFlags" jni-signature="(I)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="flags" type="int" jni-type="I" enumType="Google.Android.ExoPlayer2.BufferFlags" />
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" jni-extends="Ljava/lang/Object;" final="true" name="CryptoInfo" static="false" visibility="public" jni-signature="Lcom/appsamurai/storyly/exoplayer2/decoder/CryptoInfo;">
+      <constructor deprecated="not deprecated" final="false" name="CryptoInfo" jni-signature="()V" bridge="false" static="false" type="com.appsamurai.storyly.exoplayer2.decoder.CryptoInfo" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="false" name="getFrameworkCryptoInfo" jni-signature="()Landroid/media/MediaCodec$CryptoInfo;" bridge="false" native="false" return="android.media.MediaCodec.CryptoInfo" jni-return="Landroid/media/MediaCodec$CryptoInfo;" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="false" name="increaseClearDataFirstSubSampleBy" jni-signature="(I)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="count" type="int" jni-type="I" />
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="set" jni-signature="(I[I[I[B[BIII)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="numSubSamples" type="int" jni-type="I" />
+        <parameter name="numBytesOfClearData" type="int[]" jni-type="[I" />
+        <parameter name="numBytesOfEncryptedData" type="int[]" jni-type="[I" />
+        <parameter name="key" type="byte[]" jni-type="[B" />
+        <parameter name="iv" type="byte[]" jni-type="[B" />
+        <parameter name="mode" type="int" jni-type="I" enumType="Google.Android.ExoPlayer2.CryptoMode" />
+        <parameter name="encryptedBlocks" type="int" jni-type="I" />
+        <parameter name="clearBlocks" type="int" jni-type="I" />
+      </method>
+      <field deprecated="not deprecated" final="false" name="clearBlocks" jni-signature="I" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="encryptedBlocks" jni-signature="I" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="iv" jni-signature="[B" static="false" transient="false" type="byte[]" type-generic-aware="byte[]" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="key" jni-signature="[B" static="false" transient="false" type="byte[]" type-generic-aware="byte[]" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="mode" jni-signature="I" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false" enumType="Google.Android.ExoPlayer2.CryptoMode" />
+      <field deprecated="not deprecated" final="false" name="numBytesOfClearData" jni-signature="[I" static="false" transient="false" type="int[]" type-generic-aware="int[]" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="numBytesOfEncryptedData" jni-signature="[I" static="false" transient="false" type="int[]" type-generic-aware="int[]" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="numSubSamples" jni-signature="I" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false" />
+    </class>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="Decoder" static="false" visibility="public" jni-signature="Lcom/appsamurai/storyly/exoplayer2/decoder/Decoder;">
+      <typeParameters>
+        <typeParameter name="I" classBound="java.lang.Object" jni-classBound="Ljava/lang/Object;" />
+        <typeParameter name="O" classBound="java.lang.Object" jni-classBound="Ljava/lang/Object;" />
+        <typeParameter name="E" classBound="com.appsamurai.storyly.exoplayer2.decoder.DecoderException" jni-classBound="Lcom/appsamurai/storyly/exoplayer2/decoder/DecoderException;">
+          <genericConstraints>
+            <genericConstraint type="com.appsamurai.storyly.exoplayer2.decoder.DecoderException" />
+          </genericConstraints>
+        </typeParameter>
+      </typeParameters>
+      <method abstract="true" deprecated="not deprecated" final="false" name="dequeueInputBuffer" jni-signature="()Ljava/lang/Object;" bridge="false" native="false" return="I" jni-return="TI;" static="false" synchronized="false" synthetic="false" visibility="public">
+        <exception name="DecoderException" type="E" />
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="dequeueOutputBuffer" jni-signature="()Ljava/lang/Object;" bridge="false" native="false" return="O" jni-return="TO;" static="false" synchronized="false" synthetic="false" visibility="public">
+        <exception name="DecoderException" type="E" />
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="flush" jni-signature="()V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="true" deprecated="not deprecated" final="false" name="getName" jni-signature="()Ljava/lang/String;" bridge="false" native="false" return="java.lang.String" jni-return="Ljava/lang/String;" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="true" deprecated="not deprecated" final="false" name="queueInputBuffer" jni-signature="(Ljava/lang/Object;)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="p0" type="I" jni-type="TI;" />
+        <exception name="DecoderException" type="E" />
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="release" jni-signature="()V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public" />
+    </interface>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Exception" extends-generic-aware="java.lang.Exception" jni-extends="Ljava/lang/Exception;" final="false" name="DecoderException" static="false" visibility="public" jni-signature="Lcom/appsamurai/storyly/exoplayer2/decoder/DecoderException;">
+      <constructor deprecated="not deprecated" final="false" name="DecoderException" jni-signature="(Ljava/lang/String;)V" bridge="false" static="false" type="com.appsamurai.storyly.exoplayer2.decoder.DecoderException" synthetic="false" visibility="public">
+        <parameter name="message" type="java.lang.String" jni-type="Ljava/lang/String;" />
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="DecoderException" jni-signature="(Ljava/lang/String;Ljava/lang/Throwable;)V" bridge="false" static="false" type="com.appsamurai.storyly.exoplayer2.decoder.DecoderException" synthetic="false" visibility="public">
+        <parameter name="message" type="java.lang.String" jni-type="Ljava/lang/String;" />
+        <parameter name="cause" type="java.lang.Throwable" jni-type="Ljava/lang/Throwable;" />
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="DecoderException" jni-signature="(Ljava/lang/Throwable;)V" bridge="false" static="false" type="com.appsamurai.storyly.exoplayer2.decoder.DecoderException" synthetic="false" visibility="public">
+        <parameter name="cause" type="java.lang.Throwable" jni-type="Ljava/lang/Throwable;" />
+      </constructor>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.appsamurai.storyly.exoplayer2.decoder.Buffer" extends-generic-aware="com.appsamurai.storyly.exoplayer2.decoder.Buffer" jni-extends="Lcom/appsamurai/storyly/exoplayer2/decoder/Buffer;" final="false" name="DecoderInputBuffer" static="false" visibility="public" jni-signature="Lcom/appsamurai/storyly/exoplayer2/decoder/DecoderInputBuffer;">
+      <constructor deprecated="not deprecated" final="false" name="DecoderInputBuffer" jni-signature="(I)V" bridge="false" static="false" type="com.appsamurai.storyly.exoplayer2.decoder.DecoderInputBuffer" synthetic="false" visibility="public">
+        <parameter name="bufferReplacementMode" type="int" jni-type="I" />
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="DecoderInputBuffer" jni-signature="(II)V" bridge="false" static="false" type="com.appsamurai.storyly.exoplayer2.decoder.DecoderInputBuffer" synthetic="false" visibility="public">
+        <parameter name="bufferReplacementMode" type="int" jni-type="I" />
+        <parameter name="paddingSize" type="int" jni-type="I" />
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="ensureSpaceForWrite" jni-signature="(I)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="length" type="int" jni-type="I" />
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="true" name="flip" jni-signature="()V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="true" name="isEncrypted" jni-signature="()Z" bridge="false" native="false" return="boolean" jni-return="Z" static="false" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="false" name="newNoDataInstance" jni-signature="()Lcom/appsamurai/storyly/exoplayer2/decoder/DecoderInputBuffer;" bridge="false" native="false" return="com.appsamurai.storyly.exoplayer2.decoder.DecoderInputBuffer" jni-return="Lcom/appsamurai/storyly/exoplayer2/decoder/DecoderInputBuffer;" static="true" synchronized="false" synthetic="false" visibility="public" />
+      <method abstract="false" deprecated="not deprecated" final="false" name="resetSupplementalData" jni-signature="(I)V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+        <parameter name="length" type="int" jni-type="I" />
+      </method>
+      <field deprecated="not deprecated" final="true" name="BUFFER_REPLACEMENT_MODE_DIRECT" jni-signature="I" static="true" transient="false" type="int" type-generic-aware="int" value="2" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="true" name="BUFFER_REPLACEMENT_MODE_DISABLED" jni-signature="I" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="true" name="BUFFER_REPLACEMENT_MODE_NORMAL" jni-signature="I" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="true" name="cryptoInfo" jni-signature="Lcom/appsamurai/storyly/exoplayer2/decoder/CryptoInfo;" static="false" transient="false" type="com.appsamurai.storyly.exoplayer2.decoder.CryptoInfo" type-generic-aware="com.appsamurai.storyly.exoplayer2.decoder.CryptoInfo" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="data" jni-signature="Ljava/nio/ByteBuffer;" static="false" transient="false" type="java.nio.ByteBuffer" type-generic-aware="java.nio.ByteBuffer" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="format" jni-signature="Lcom/appsamurai/storyly/exoplayer2/common/Format;" static="false" transient="false" type="com.appsamurai.storyly.exoplayer2.common.Format" type-generic-aware="com.appsamurai.storyly.exoplayer2.common.Format" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="supplementalData" jni-signature="Ljava/nio/ByteBuffer;" static="false" transient="false" type="java.nio.ByteBuffer" type-generic-aware="java.nio.ByteBuffer" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="timeUs" jni-signature="J" static="false" transient="false" type="long" type-generic-aware="long" visibility="public" volatile="false" />
+      <field deprecated="not deprecated" final="false" name="waitingForKeys" jni-signature="Z" static="false" transient="false" type="boolean" type-generic-aware="boolean" visibility="public" volatile="false" />
+    </class>
+  </package>
+</api>

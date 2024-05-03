@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.appsamurai.storyly" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <queries>
+        <package android:name="com.instagram.android" />
+        <package android:name="com.twitter.android" />
+        <package android:name="com.facebook.katana" />
+        <package android:name="com.whatsapp" />
+    </queries>
+
+    <application>
+        <receiver
+            android:name="com.appsamurai.storyly.util.notification.StorylyNotificationReceiver"
+            android:exported="false"
+            android:process=":remote" />
+    </application>
+
+</manifest>

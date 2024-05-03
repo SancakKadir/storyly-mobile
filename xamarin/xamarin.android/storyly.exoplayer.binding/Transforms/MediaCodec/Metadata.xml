@@ -1,0 +1,8 @@
+<metadata>
+
+    <remove-node path="/api/package[@name='com.appsamurai.storyly.exoplayer2.mediacodec']/*[not(
+        @name='MediaCodecInfo' or
+        @name='MediaCodecSelector'
+    )]" />
+
+</metadata>

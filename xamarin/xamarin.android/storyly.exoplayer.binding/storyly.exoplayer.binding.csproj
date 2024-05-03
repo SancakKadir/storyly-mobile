@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5F18411B-9916-4C36-A0E5-4B7B23650BBC}</ProjectGuid>
+    <ProjectTypeGuids>{10368E6C-D01B-4462-8E8B-01FC667A7035};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TemplateGuid>{77efb91c-a7e9-4b0e-a7c5-31eeec3c6d46}</TemplateGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>storyly.exoplayer.binding</RootNamespace>
+    <AssemblyName>storyly.exoplayer.binding</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>True</Deterministic>
+    <TargetFrameworkVersion>v13.0</TargetFrameworkVersion>
+    <AndroidClassParser>class-parse</AndroidClassParser>
+    <AndroidCodegenTarget>XAJavaInterop1</AndroidCodegenTarget>
+    <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>portable</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Jars\AboutJars.txt" />
+    <None Include="Additions\AboutAdditions.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <TransformFile Include="Transforms\Metadata.xml" />
+    <TransformFile Include="Transforms\EnumFields.xml" />
+    <TransformFile Include="Transforms\EnumMethods.xml" />
+    <TransformFile Include="Transforms\Analytics\Metadata.AnalyticsCollector.xml" />
+    <TransformFile Include="Transforms\Analytics\Metadata.AnalyticsListener.xml" />
+    <TransformFile Include="Transforms\Analytics\Metadata.xml" />
+    <TransformFile Include="Transforms\Audio\Metadata.AudioAttributes.xml" />
+    <TransformFile Include="Transforms\Audio\Metadata.xml" />
+    <TransformFile Include="Transforms\Decoder\Metadata.Buffer.xml" />
+    <TransformFile Include="Transforms\Decoder\Metadata.CryptoInfo.xml" />
+    <TransformFile Include="Transforms\Decoder\Metadata.xml" />
+    <TransformFile Include="Transforms\Device\Metadata.xml" />
+    <TransformFile Include="Transforms\Drm\Metadata.xml" />
+    <TransformFile Include="Transforms\Ext\Cronet\Metadata.CronetDataSource.xml" />
+    <TransformFile Include="Transforms\Ext\Cronet\Metadata.CronetEngineWrapper.xml" />
+    <TransformFile Include="Transforms\Ext\Cronet\Metadata.xml" />
+    <TransformFile Include="Transforms\Extractor\Metadata.ExtractorInput.xml" />
+    <TransformFile Include="Transforms\Extractor\Metadata.ExtractorOutput.xml" />
+    <TransformFile Include="Transforms\Extractor\Metadata.TrackOutput.xml" />
+    <TransformFile Include="Transforms\Extractor\Metadata.xml" />
+    <TransformFile Include="Transforms\MediaCodec\Metadata.xml" />
+    <TransformFile Include="Transforms\Metadata\Metadata.xml" />
+    <TransformFile Include="Transforms\Offline\Metadata.xml" />
+    <TransformFile Include="Transforms\Source\Ads\Metadata.AdPlaybackState.xml" />
+    <TransformFile Include="Transforms\Source\Ads\Metadata.AdsLoader.xml" />
+    <TransformFile Include="Transforms\Source\Ads\Metadata.AdsMediaSource.xml" />
+    <TransformFile Include="Transforms\Source\Ads\Metadata.xml" />
+    <TransformFile Include="Transforms\Source\Chunk\Metadata.Chunk.xml" />
+    <TransformFile Include="Transforms\Source\Chunk\Metadata.xml" />
+    <TransformFile Include="Transforms\Source\Hls\Metadata.HlsDataSourceFactory.xml" />
+    <TransformFile Include="Transforms\Source\Hls\Metadata.HlsMediaSource.xml" />
+    <TransformFile Include="Transforms\Source\Hls\Metadata.xml" />
+    <TransformFile Include="Transforms\Source\Hls\Playlist\Metadata.HlsMasterPlaylist.xml" />
+    <TransformFile Include="Transforms\Source\Hls\Playlist\Metadata.HlsMediaPlaylist.xml" />
+    <TransformFile Include="Transforms\Source\Hls\Playlist\Metadata.HlsPlaylist.xml" />
+    <TransformFile Include="Transforms\Source\Hls\Playlist\Metadata.HlsPlaylistTracker.xml" />
+    <TransformFile Include="Transforms\Source\Hls\Playlist\Metadata.xml" />
+    <TransformFile Include="Transforms\Source\MediaParser\Metadata.xml" />
+    <TransformFile Include="Transforms\Source\Metadata.DefaultMediaSourceFactory.xml" />
+    <TransformFile Include="Transforms\Source\Metadata.MediaLoadData.xml" />
+    <TransformFile Include="Transforms\Source\Metadata.MediaPeriod.xml" />
+    <TransformFile Include="Transforms\Source\Metadata.MediaSourceEventListener.xml" />
+    <TransformFile Include="Transforms\Source\Metadata.MediaSourceFactory.xml" />
+    <TransformFile Include="Transforms\Source\Metadata.ProgressiveMediaSource.xml" />
+    <TransformFile Include="Transforms\Source\Metadata.SampleQueue.xml" />
+    <TransformFile Include="Transforms\Source\Metadata.xml" />
+    <TransformFile Include="Transforms\Text\Metadata.xml" />
+    <TransformFile Include="Transforms\Trackselection\Metadata.BaseTrackSelection.xml" />
+    <TransformFile Include="Transforms\Trackselection\Metadata.DefaultTrackSelector.xml" />
+    <TransformFile Include="Transforms\Trackselection\Metadata.ExoTrackSelection.xml" />
+    <TransformFile Include="Transforms\Trackselection\Metadata.MappingTrackSelector.xml" />
+    <TransformFile Include="Transforms\Trackselection\Metadata.TrackSelectionParameters.xml" />
+    <TransformFile Include="Transforms\Trackselection\Metadata.xml" />
+    <TransformFile Include="Transforms\UI\Metadata.PlayerControlView.xml" />
+    <TransformFile Include="Transforms\UI\Metadata.PlayerView.xml" />
+    <TransformFile Include="Transforms\UI\Metadata.xml" />
+    <TransformFile Include="Transforms\Upstream\Metadata.DataSource.xml" />
+    <TransformFile Include="Transforms\Upstream\Metadata.DefaultBandwidthMeter.xml" />
+    <TransformFile Include="Transforms\Upstream\Metadata.DefaultDataSourceFactory.xml" />
+    <TransformFile Include="Transforms\Upstream\Metadata.DefaultHttpDataSource.xml" />
+    <TransformFile Include="Transforms\Upstream\Metadata.HttpDataSource.xml" />
+    <TransformFile Include="Transforms\Upstream\Metadata.LoadErrorHandlingPolicy.xml" />
+    <TransformFile Include="Transforms\Upstream\Metadata.xml" />
+    <TransformFile Include="Transforms\Util\Metadata.Clock.xml" />
+    <TransformFile Include="Transforms\Util\Metadata.EventLogger.xml" />
+    <TransformFile Include="Transforms\Util\Metadata.MimeTypes.xml" />
+    <TransformFile Include="Transforms\Util\Metadata.RepeatModeUtil.xml" />
+    <TransformFile Include="Transforms\Util\Metadata.Util.xml" />
+    <TransformFile Include="Transforms\Util\Metadata.xml" />
+    <TransformFile Include="Transforms\Video\Metadata.ColorInfo.xml" />
+    <TransformFile Include="Transforms\Video\Metadata.xml" />
+    <TransformFile Include="Transforms\Video\Spherical\Metadata.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <LibraryProjectZip Include="Jars\storyly-exoplayer-release.aar" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Kotlin.StdLib">
+      <Version>1.5.31</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Google.Guava">
+      <Version>31.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.Annotation">
+      <Version>1.3.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.Core">
+      <Version>1.3.2</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Google.Guava.FailureAccess">
+      <Version>1.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Google.Guava.ListenableFuture">
+      <Version>1.0.0.18</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Google.J2Objc.Annotations">
+      <Version>1.3.0</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.Arch.Core.Common">
+      <Version>2.1.0.8</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.Collection">
+      <Version>1.1.0.7</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.Arch.Core.Runtime">
+      <Version>2.1.0.8</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.Lifecycle.Common">
+      <Version>2.3.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.Lifecycle.Runtime">
+      <Version>2.3.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.Media">
+      <Version>1.2.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.RecyclerView">
+      <Version>1.1.0.8</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.AndroidX.VersionedParcelable">
+      <Version>1.1.1.7</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.GooglePlayServices.CroNet">
+      <Version>117.0.0</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Transforms\Analytics\" />
+    <Folder Include="Transforms\Audio\" />
+    <Folder Include="Transforms\Decoder\" />
+    <Folder Include="Transforms\Device\" />
+    <Folder Include="Transforms\Drm\" />
+    <Folder Include="Transforms\Ext\" />
+    <Folder Include="Transforms\Extractor\" />
+    <Folder Include="Transforms\MediaCodec\" />
+    <Folder Include="Transforms\Metadata\" />
+    <Folder Include="Transforms\Offline\" />
+    <Folder Include="Transforms\Source\" />
+    <Folder Include="Transforms\Text\" />
+    <Folder Include="Transforms\Trackselection\" />
+    <Folder Include="Transforms\UI\" />
+    <Folder Include="Transforms\Upstream\" />
+    <Folder Include="Transforms\Util\" />
+    <Folder Include="Transforms\Video\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.Bindings.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
