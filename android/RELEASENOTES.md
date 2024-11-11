@@ -1,4 +1,17 @@
 # Release Notes
+### 4.3.0 (07.11.2024)
+* IMPORTANT! renamed resume function to play in StorylyVerticalFeedPresenterView
+* changed play/pause handling of vertical feed for StorylyVerticalFeedPresenterView
+  
+### 4.2.0 (06.11.2024)
+* IMPORTANT! renamed products field to actionProducts in Story class
+* IMPORTANT! renamed products field to actionProducts in VerticalFeedItem class
+* added new public interactive component types for Storyly and VerticalFeed
+* improved interactive component add/remove flow
+* improved activity assignment flow in StorylyView and VerticalFeed views
+* fixed a few bugs related to vertical feed image carousel
+* added like animation in vertical feed
+  
 ### 4.1.0 (02.11.2024)
 * added vertical feed presenter view
   
@@ -11,6 +24,12 @@
   
 ### 4.0.0 (17.10.2024)
 * added vertical feed
+
+### 3.7.0 (06.11.2024)
+* IMPORTANT! renamed products field to actionProducts in Story class
+* added new public interactive component types
+* improved interactive component add/remove flow
+* improved activity assignment flow in StorylyView
 
 ### 3.6.3 (25.10.2024)
 * improved data processing flow
