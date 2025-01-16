@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.example.storylyjetpackcompose'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.storylyjetpackcompose"
         minSdk 24
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
@@ -37,7 +37,7 @@ android {
         compose true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion '1.2.0'
+        kotlinCompilerExtensionVersion '1.4.0'
     }
     packagingOptions {
         resources {
@@ -50,15 +50,15 @@ dependencies {
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.3.1'
-    implementation 'androidx.activity:activity-compose:1.3.1'
+    implementation 'androidx.activity:activity-compose:1.8.1'
     implementation "androidx.compose.ui:ui:$compose_ui_version"
     implementation "androidx.compose.ui:ui-tooling-preview:$compose_ui_version"
     implementation 'androidx.compose.material:material:1.2.0'
     debugImplementation "androidx.compose.ui:ui-tooling:$compose_ui_version"
     debugImplementation "androidx.compose.ui:ui-test-manifest:$compose_ui_version"
-
+    implementation "androidx.compose.material3:material3:1.2.0"
     // Storyly SDK
-    implementation 'com.appsamurai.storyly:storyly:3.9.0'
+    implementation 'com.appsamurai.storyly:storyly:4.6.0'
     // Moments SDK
     implementation 'com.appsamurai.storyly:storyly-moments:0.5.1'
 }
