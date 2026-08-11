@@ -2254,29 +2254,32 @@ PODS:
     - React-utils (= 0.81.1)
     - SocketRocket
   - SocketRocket (0.7.1)
-  - StorylyPlacement (1.4.0):
-    - StorylyPlacement/Analytics (= 1.4.0)
-    - StorylyPlacement/Banner (= 1.4.0)
-    - StorylyPlacement/Canvas (= 1.4.0)
-    - StorylyPlacement/Core (= 1.4.0)
-    - StorylyPlacement/CoreInternal (= 1.4.0)
-    - StorylyPlacement/Placement (= 1.4.0)
-    - StorylyPlacement/StoryBar (= 1.4.0)
-    - StorylyPlacement/SwipeCard (= 1.4.0)
-    - StorylyPlacement/VideoFeed (= 1.4.0)
-  - StorylyPlacement/Analytics (1.4.0)
-  - StorylyPlacement/Banner (1.4.0)
-  - StorylyPlacement/Canvas (1.4.0)
-  - StorylyPlacement/Core (1.4.0)
-  - StorylyPlacement/CoreInternal (1.4.0)
-  - StorylyPlacement/Placement (1.4.0):
+  - StorylyPlacement (1.12.0):
+    - StorylyPlacement/Analytics (= 1.12.0)
+    - StorylyPlacement/Banner (= 1.12.0)
+    - StorylyPlacement/Canvas (= 1.12.0)
+    - StorylyPlacement/Core (= 1.12.0)
+    - StorylyPlacement/CoreInternal (= 1.12.0)
+    - StorylyPlacement/Placement (= 1.12.0)
+    - StorylyPlacement/RetailMedia (= 1.12.0)
+    - StorylyPlacement/StoryBar (= 1.12.0)
+    - StorylyPlacement/SwipeCard (= 1.12.0)
+    - StorylyPlacement/VideoFeed (= 1.12.0)
+  - StorylyPlacement/Analytics (1.12.0)
+  - StorylyPlacement/Banner (1.12.0)
+  - StorylyPlacement/Canvas (1.12.0)
+  - StorylyPlacement/Core (1.12.0)
+  - StorylyPlacement/CoreInternal (1.12.0)
+  - StorylyPlacement/Placement (1.12.0):
     - StorylyPlacement/Analytics
     - StorylyPlacement/Core
     - StorylyPlacement/CoreInternal
-  - StorylyPlacement/StoryBar (1.4.0)
-  - StorylyPlacement/SwipeCard (1.4.0)
-  - StorylyPlacement/VideoFeed (1.4.0)
-  - StorylyPlacementReactNative (1.4.0):
+    - StorylyPlacement/RetailMedia
+  - StorylyPlacement/RetailMedia (1.12.0)
+  - StorylyPlacement/StoryBar (1.12.0)
+  - StorylyPlacement/SwipeCard (1.12.0)
+  - StorylyPlacement/VideoFeed (1.12.0)
+  - StorylyPlacementReactNative (1.12.0):
     - boost
     - DoubleConversion
     - fast_float
@@ -2303,7 +2306,7 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - SocketRocket
-    - StorylyPlacement (= 1.4.0)
+    - StorylyPlacement (= 1.12.0)
     - Yoga
   - Yoga (0.0.0)
 
@@ -2607,10 +2610,10 @@ SPEC CHECKSUMS:
   ReactCodegen: 4d203eddf6f977caa324640a20f92e70408d648b
   ReactCommon: ce5d4226dfaf9d5dacbef57b4528819e39d3a120
   SocketRocket: d4aabe649be1e368d1318fdf28a022d714d65748
-  StorylyPlacement: 52d616ff4e9b756d7bcd623a404f5985ea7d6e4c
-  StorylyPlacementReactNative: 3792e9df8214cbcf7a457c492ec939a5ee34e073
+  StorylyPlacement: 39513c5c47277be056637aca6a6e0f10ae4da734
+  StorylyPlacementReactNative: a68be9a490994e4eb9dedf056b04b580c3d78bb3
   Yoga: 11c9686a21e2cd82a094a723649d9f4507200fb0
 
-PODFILE CHECKSUM: 32032799f88e04b940bf9fdc6465594540e08762
+PODFILE CHECKSUM: 074be28d111c46ae0ae9b90511fb2b05f30dc664
 
 COCOAPODS: 1.16.2
