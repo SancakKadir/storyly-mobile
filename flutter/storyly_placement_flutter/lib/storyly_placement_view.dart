@@ -62,9 +62,7 @@ class _STRPlacementViewState extends State<STRPlacementView> {
     );
     if (widget.provider == null) return;
     if (widget.provider?.providerId != oldWidget.provider?.providerId) {
-      debugPrint(
-        'STRPlacementView: configure: ${widget.provider?.providerId}',
-      );
+      debugPrint('STRPlacementView: configure: ${widget.provider?.providerId}');
       _controller.configure(widget.provider!.providerId);
     }
   }

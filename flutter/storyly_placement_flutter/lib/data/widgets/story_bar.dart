@@ -573,11 +573,7 @@ class StoryGroupStyle {
   final String? textUnseenColor;
   final StoryGroupBadgeStyle? badge;
 
-  StoryGroupStyle({
-    this.borderUnseenColors,
-    this.textUnseenColor,
-    this.badge,
-  });
+  StoryGroupStyle({this.borderUnseenColors, this.textUnseenColor, this.badge});
 
   factory StoryGroupStyle.fromJson(Map<String, dynamic> json) {
     return StoryGroupStyle(
@@ -703,9 +699,7 @@ class STRStoryBarPayload extends STRPayload {
 
   factory STRStoryBarPayload.fromJson(Map<String, dynamic> json) {
     return STRStoryBarPayload(
-      group: json['group'] != null
-          ? StoryGroup.fromJson(json['group'])
-          : null,
+      group: json['group'] != null ? StoryGroup.fromJson(json['group']) : null,
       story: json['story'] != null ? Story.fromJson(json['story']) : null,
       component: json['component'] != null
           ? StoryBarComponent.fromJson(json['component'])

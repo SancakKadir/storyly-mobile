@@ -82,11 +82,7 @@ class STRShareConfig {
   final String? facebookAppId;
   final bool? appLogoVisibility;
 
-  STRShareConfig({
-    this.shareUrl,
-    this.facebookAppId,
-    this.appLogoVisibility,
-  });
+  STRShareConfig({this.shareUrl, this.facebookAppId, this.appLogoVisibility});
 
   factory STRShareConfig.fromJson(Map<String, dynamic> json) {
     return STRShareConfig(

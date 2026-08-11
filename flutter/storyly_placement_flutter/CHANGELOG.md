@@ -1,4 +1,21 @@
 # Release Notes
+### 1.12.0 (05.08.2026)
+* renamed public structures to sync with native sdks, please refer to [technical documentation](https://docs.storyly.io/docs/flutter-placement-initial-setup)
+* fixed gradient view round corners in banner widget
+* added Polish localization support
+* added visibility support for navigation bar in video feed widget
+* added title and description color support for swipe card widget
+* added dark/light theme support in placement config
+* added app session information for the placement widgets
+* added quantity field for products in storyly analytics
+* added session initialize event in storyly analytics 
+* improved disclosure layout in banner widget
+* improved progress bar time management in video feed widget
+* improved progress bar time management in story bar widget
+* improved video group cover structure in story bar widget
+* fixed an issue related to restore data in canvas widget on android platform
+* fixed navigation bar functionality for image carousel in video feed widget on ios platform
+
 ### 1.10.0 (26.05.2026)
 * added design settings for story bar widget
 * added carousel support for banner widget
