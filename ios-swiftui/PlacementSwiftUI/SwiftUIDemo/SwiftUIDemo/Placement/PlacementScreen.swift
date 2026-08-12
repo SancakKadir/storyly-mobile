@@ -9,10 +9,10 @@ import Combine
 import SwiftUI
 import StorylyCore
 import StorylyPlacement
-import PlacementSwiftUI
+import StorylyPlacementSwiftUI
 
 /// A typical customer integration: a single Story Bar placement pinned to the top of the
-/// screen, rendered with `StorylyPlacementView` from the `PlacementSwiftUI` package.
+/// screen, rendered with `StorylyPlacementView` from the `StorylyPlacementSwiftUI` package.
 ///
 /// The view has no intrinsic size, so sizing is the host's job: ``PlacementState`` records
 /// the ratio and visibility the SDK reports, and ``placementHeight`` turns them into a frame.

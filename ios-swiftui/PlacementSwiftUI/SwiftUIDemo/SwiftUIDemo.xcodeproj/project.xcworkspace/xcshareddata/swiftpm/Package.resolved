@@ -15,7 +15,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Netvent/storyly-placement-swiftui",
       "state" : {
-        "revision" : "8bb91a4b8094315e6f9a318a2acbe3c4886bfbaa",
+        "revision" : "c13f7edea26c4481e525ae57ed104d43440bfc73",
         "version" : "1.12.0"
       }
     }

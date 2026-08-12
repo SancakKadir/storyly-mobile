@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		75D7F420300E5231003373D1 /* StorylyBannerSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 75D7F41F300E5231003373D1 /* StorylyBannerSwiftUI */; };
 		75D7F422300E5231003373D1 /* StorylyCanvasSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 75D7F421300E5231003373D1 /* StorylyCanvasSwiftUI */; };
-		75D7F424300E5231003373D1 /* PlacementSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 75D7F423300E5231003373D1 /* PlacementSwiftUI */; };
+		75D7F424300E5231003373D1 /* StorylyPlacementSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 75D7F423300E5231003373D1 /* StorylyPlacementSwiftUI */; };
 		75D7F426300E5231003373D1 /* StorylyStoryBarSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 75D7F425300E5231003373D1 /* StorylyStoryBarSwiftUI */; };
 		75D7F428300E5231003373D1 /* StorylySwipeCardSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 75D7F427300E5231003373D1 /* StorylySwipeCardSwiftUI */; };
 		75D7F42A300E5231003373D1 /* StorylyVideoFeedSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 75D7F429300E5231003373D1 /* StorylyVideoFeedSwiftUI */; };
@@ -33,7 +33,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				75D7F428300E5231003373D1 /* StorylySwipeCardSwiftUI in Frameworks */,
-				75D7F424300E5231003373D1 /* PlacementSwiftUI in Frameworks */,
+				75D7F424300E5231003373D1 /* StorylyPlacementSwiftUI in Frameworks */,
 				75D7F420300E5231003373D1 /* StorylyBannerSwiftUI in Frameworks */,
 				75D7F42A300E5231003373D1 /* StorylyVideoFeedSwiftUI in Frameworks */,
 				75D7F422300E5231003373D1 /* StorylyCanvasSwiftUI in Frameworks */,
@@ -90,7 +90,7 @@
 			packageProductDependencies = (
 				75D7F41F300E5231003373D1 /* StorylyBannerSwiftUI */,
 				75D7F421300E5231003373D1 /* StorylyCanvasSwiftUI */,
-				75D7F423300E5231003373D1 /* PlacementSwiftUI */,
+				75D7F423300E5231003373D1 /* StorylyPlacementSwiftUI */,
 				75D7F425300E5231003373D1 /* StorylyStoryBarSwiftUI */,
 				75D7F427300E5231003373D1 /* StorylySwipeCardSwiftUI */,
 				75D7F429300E5231003373D1 /* StorylyVideoFeedSwiftUI */,
@@ -383,10 +383,10 @@
 			package = 75D7F41D300E51BE003373D1 /* XCRemoteSwiftPackageReference "storyly-placement-swiftui" */;
 			productName = StorylyCanvasSwiftUI;
 		};
-		75D7F423300E5231003373D1 /* PlacementSwiftUI */ = {
+		75D7F423300E5231003373D1 /* StorylyPlacementSwiftUI */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 75D7F41D300E51BE003373D1 /* XCRemoteSwiftPackageReference "storyly-placement-swiftui" */;
-			productName = PlacementSwiftUI;
+			productName = StorylyPlacementSwiftUI;
 		};
 		75D7F425300E5231003373D1 /* StorylyStoryBarSwiftUI */ = {
 			isa = XCSwiftPackageProductDependency;
